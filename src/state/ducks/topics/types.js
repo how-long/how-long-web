@@ -1,0 +1,9 @@
+const ADD_TOPIC = "ADD_TOPIC"
+const REMOVE_TOPIC = "REMOVE_TOPIC"
+const REFRESH_TOPIC = "REFRESH_TOPIC"
+
+export default {
+  ADD_TOPIC,
+  REMOVE_TOPIC,
+  REFRESH_TOPIC
+}
